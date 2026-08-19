@@ -1,0 +1,27 @@
+# Compiled output / Maven
+target/
+*.class
+
+# Maven wrapper (keep the wrapper scripts, ignore the downloaded jar)
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse / VS Code (por si alguien más abre el proyecto)
+.classpath
+.project
+.settings/
+.vscode/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
